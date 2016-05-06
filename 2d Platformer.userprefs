@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\guardarPreguntas.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TextBoxManager.cs" Line="63" Column="36" />
+      <File FileName="Assets\Scripts\Moneda.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\gameoverdone.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DisparoController.cs" Line="41" Column="4" />
+      <File FileName="Assets\Scripts\Enemigo.cs" Line="13" Column="29" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="88" Column="3" />
+      <File FileName="Assets\Scripts\Puntuacion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\guardarPreguntas.cs" Line="39" Column="1" />
+      <File FileName="Assets\Scripts\newGame.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
